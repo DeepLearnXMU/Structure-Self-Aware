@@ -1,0 +1,6 @@
+numpy==1.18.5
+nltk==3.5
+torch==1.7.0+cu110
+tqdm==4.47.0
+transformers==3.0.2
+scikit_learn==0.24.0
