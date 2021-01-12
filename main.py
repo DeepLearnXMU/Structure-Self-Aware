@@ -8,7 +8,6 @@ from model import TeacherModel, StudentModel, Bridge, PathClassifier
 from dialogue_dataset import DialogueDataset, DiscourseGraph
 from tqdm import tqdm
 
-from pcgrad import PCGrad
 from utils import *
 from utils import _get_clones
 
