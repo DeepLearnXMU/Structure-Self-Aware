@@ -30,3 +30,5 @@ Remember to train the teacher first before adding the ''distill'' command
 sh script/teacher.sh
 ```
 
+## Others
+For the experiments about STAC and ELECTRA, you can find in this [repository](https://github.com/Soistesimmer/Structure-Self-Aware)
