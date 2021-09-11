@@ -1,5 +1,5 @@
 # Structure Self-Aware
- Code for " A Structure Self-Aware Model for Discourse Parsing on Multi-Party Dialogues"
+ Code for " A Structure Self-Aware Model for Discourse Parsing on Multi-Party Dialogues"(IJCAI2021)
 
 ## Dataset
 
